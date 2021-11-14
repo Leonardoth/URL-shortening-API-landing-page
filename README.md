@@ -1,6 +1,6 @@
 [Instruções/Instructions](https://www.frontendmentor.io/challenges/url-shortening-api-landing-page-2ce3ob-G)
 
-[Resultado/Result]()
+[Resultado/Result](https://leonardoth.github.io/URL-shortening-API-landing-page/)
 
 ## Brief
 
