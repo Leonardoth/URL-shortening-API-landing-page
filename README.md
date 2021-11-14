@@ -2,6 +2,8 @@
 
 [Resultado/Result](https://leonardoth.github.io/URL-shortening-API-landing-page/)
 
+I'm aware of the delay when shortening the link, it's from the API, not the frontend which i'm responsible for.
+
 ## Brief
 
 Your challenge is to integrate with the shrtcode API to create shortened URLs and display them like in the designs.
